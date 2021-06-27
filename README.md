@@ -1,2 +1,2 @@
-# Asincronismo_js
-Curso de asincronismo en javascript, platzi
+# Asincronismo_jsCancel changes
+Ejercicios de callback, promises, async y await, con Soy dalto y platzi
