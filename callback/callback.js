@@ -12,11 +12,6 @@ document.write(calc(2,6, suma));
 
 
 
-
-
-
-
-
 function date(callback){
     console.log(new Date);
 
