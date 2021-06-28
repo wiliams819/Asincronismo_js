@@ -1,0 +1,15 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+}
+
+.materias{
+    width: 90%;
+    background: #efefef;
+    border: solid #00000000 2px;
+}
+
+.materia{
+    background: #dfdfdf;
+    padding: 20px;
+}
