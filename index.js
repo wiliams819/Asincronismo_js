@@ -7,7 +7,7 @@ const materia = [
         Nombre:"Fisica",
         Nota: 7
     },{
-        Nombre:"Biologisa",
+        Nombre:"Biologia",
         Nota: 6
     },{
         Nombre:"Quimica",
